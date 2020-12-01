@@ -4651,7 +4651,7 @@ MonoBehaviour:
       Nouvelle partie, emplacement de sauvegarde","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Panel
       Continuer partie","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Panel
       \"Options\"","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"EnabledGodVAR","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Panel
-      Options, Triche","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"LevelRefSlot1","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"Slot1InfoSaveUtilis\u00e9e","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot2InfoSaveUtilis\u00e9e","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot3InfoSaveUtilis\u00e9e","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot1NiveauVar","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot1Vies","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Options, Triche","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"LevelRefSlot1","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"Slot1InfoSaveUtilis\u00e9e","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot2InfoSaveUtilis\u00e9e","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot3InfoSaveUtilis\u00e9e","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot1NiveauVar","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot1Vies","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot2NiveauVar","value":{"$content":16,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot3NiveauVar","value":{"$content":17,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot2Vies","value":{"$content":18,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Slot3Vies","value":{"$content":19,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1425157358}
     - {fileID: 17734369}
@@ -4669,6 +4669,10 @@ MonoBehaviour:
     - {fileID: 455788973}
     - {fileID: 670681536}
     - {fileID: 1063823520}
+    - {fileID: 1724877271}
+    - {fileID: 499708048}
+    - {fileID: 399959502}
+    - {fileID: 1970889749}
 --- !u!4 &1626464073
 Transform:
   m_ObjectHideFlags: 0

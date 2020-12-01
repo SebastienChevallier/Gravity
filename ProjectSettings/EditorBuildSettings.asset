@@ -50,4 +50,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Niveau_12.unity
     guid: 570d86c00d0df844a88f8fd9113fc878
+  - enabled: 1
+    path: Assets/Scenes/final/TrainingRoom - Adrien.unity
+    guid: a5663179dbf1f804ea9acacb1bd7881e
+  - enabled: 1
+    path: Assets/Scenes/final/TrainingRoom.unity
+    guid: 4a414ca58d2e85f43ac9d4afa13a49eb
+  - enabled: 1
+    path: Assets/Scenes/final/Training Mobs.unity
+    guid: 33dfeedb5ca62ae4c861d8492282e46b
   m_configObjects: {}
