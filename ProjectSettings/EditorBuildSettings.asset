@@ -6,18 +6,48 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TrainingRoom - Adrien.unity
-    guid: a5663179dbf1f804ea9acacb1bd7881e
-  - enabled: 1
-    path: Assets/Scenes/TrainingRoom.unity
-    guid: 4a414ca58d2e85f43ac9d4afa13a49eb
-  - enabled: 1
-    path: Assets/Scenes/Training Mobs.unity
-    guid: 33dfeedb5ca62ae4c861d8492282e46b
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/MenuPrincipal.unity
+    path: Assets/Scenes/final/MenuPrincipal.unity
     guid: 6063a878d3cdbc0499bdf6431db6c0a9
+  - enabled: 1
+    path: Assets/Scenes/Tuto 1 90%.unity
+    guid: 8bb2b425dc18a4940b6875434df8f96a
+  - enabled: 1
+    path: Assets/Scenes/tuto_2.unity
+    guid: 0c97bf194a77cc84d88a4e0450f3960b
+  - enabled: 1
+    path: Assets/Scenes/Niveau 1 90% .unity
+    guid: b214a21776a7cbd45b2c9da739d2a28a
+  - enabled: 1
+    path: Assets/Scenes/Niveau_2.unity
+    guid: 94cdd2f8cbbc9e14eb86ca523ee7376c
+  - enabled: 1
+    path: Assets/Scenes/Tuto 3 90%.unity
+    guid: 3e19f37eeac26c1428882bb5607b0d2d
+  - enabled: 1
+    path: Assets/Scenes/Niveau_3.unity
+    guid: 30a5c67dc0b53404d805ea47ba47a609
+  - enabled: 1
+    path: Assets/Scenes/niveau 4 90%.unity
+    guid: aec08d2d0f85e5b49960f9360d614fbb
+  - enabled: 1
+    path: Assets/Scenes/Boss Lucas.unity
+    guid: ea01a60ada654c74490fccfe043326ed
+  - enabled: 1
+    path: Assets/Scenes/Niveau 6 90%.unity
+    guid: 6a5dbb8ed5da7c44d9322fcdd240cfa3
+  - enabled: 1
+    path: Assets/Scenes/Niveau_7.unity
+    guid: a39563d4782971e4da15ae3ee2173f40
+  - enabled: 1
+    path: Assets/Scenes/Niveau_8.unity
+    guid: 3a0260795d30d7c4792bf4d404b2b1fe
+  - enabled: 1
+    path: Assets/Scenes/Niveau_10.unity
+    guid: 365cb32e97e83584a8bef0cf9d66337c
+  - enabled: 1
+    path: Assets/Scenes/Niveau_11.unity
+    guid: 62bff655c2383f3439a09982c2952a88
+  - enabled: 1
+    path: Assets/Scenes/Niveau_12.unity
+    guid: 570d86c00d0df844a88f8fd9113fc878
   m_configObjects: {}
