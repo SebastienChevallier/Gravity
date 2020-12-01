@@ -521,7 +521,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2228771565007441866, guid: 44fb9395b06d7374eba8c9a9030965a5, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"PlayerSpeed","value":{"$content":4.0,"$type":"System.Single"},"$version":"A"},{"name":"JumpP2","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"JumpHeight","value":{"$content":13.0,"$type":"System.Single"},"$version":"A"},{"name":"IsHoldingPlatform","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"PlatformSpawn","value":null,"$version":"A"},{"name":"PLAYER1","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PlatformType","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"DummyPlatform","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"IcePlatform","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Dash","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"DashCD","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"DashVar","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"GodMode","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"JumpHeightGravitySwitched","value":{"$content":-13.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"PlayerSpeed","value":{"$content":4.0,"$type":"System.Single"},"$version":"A"},{"name":"JumpP2","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"JumpHeight","value":{"$content":13.0,"$type":"System.Single"},"$version":"A"},{"name":"IsHoldingPlatform","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"PlatformSpawn","value":null,"$version":"A"},{"name":"PLAYER1","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PlatformType","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"DummyPlatform","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"IcePlatform","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Dash","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"DashCD","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"DashVar","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"GodMode","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"JumpHeightGravitySwitched","value":{"$content":-13.0,"$type":"System.Single"},"$version":"A"},{"name":"PlatPos_Y_Inv","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 2228771565007441868, guid: 44fb9395b06d7374eba8c9a9030965a5, type: 3}
       propertyPath: m_Name
@@ -723,7 +723,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8007967256327622093, guid: e5dd0e6beba63a348830ef722f21d357, type: 3}
       propertyPath: orthographic size
-      value: 2.488264
+      value: 2.4865892
       objectReference: {fileID: 0}
     - target: {fileID: 8007967256327622094, guid: e5dd0e6beba63a348830ef722f21d357, type: 3}
       propertyPath: m_LocalPosition.x
