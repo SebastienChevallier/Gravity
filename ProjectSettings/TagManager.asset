@@ -14,7 +14,7 @@ TagManager:
   - ENNEMY
   - PIEGE
   - Curseur
-  - PLATEFORME_DEAD
+  - Murs
   layers:
   - Default
   - TransparentFX
